@@ -1,0 +1,6 @@
+
+State Machine - |Receiver_TOP_level|Receiver_state:Port_Mapping_statemachine|current_state
+Name current_state.Shift current_state.Wait1 current_state.Key2 
+current_state.Key2 0 0 0 
+current_state.Wait1 0 1 1 
+current_state.Shift 1 0 1 

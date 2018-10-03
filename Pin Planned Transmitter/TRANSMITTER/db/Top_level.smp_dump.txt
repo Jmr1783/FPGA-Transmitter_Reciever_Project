@@ -1,0 +1,7 @@
+
+State Machine - |TOP_level|FSM:Port_Mapping_statemachine|current_state
+Name current_state.Transmit current_state.ELS current_state.Key_IN current_state.Data 
+current_state.Data 0 0 0 0 
+current_state.Key_IN 0 0 1 1 
+current_state.ELS 0 1 0 1 
+current_state.Transmit 1 0 0 1 

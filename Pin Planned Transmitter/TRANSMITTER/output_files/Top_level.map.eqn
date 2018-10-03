@@ -1,0 +1,988 @@
+-- Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, the Altera Quartus Prime License Agreement,
+-- the Altera MegaCore Function License Agreement, or other 
+-- applicable license agreement, including, without limitation, 
+-- that your use is for the sole purpose of programming logic 
+-- devices manufactured by Altera and sold by Altera or its 
+-- authorized distributors.  Please refer to the applicable 
+-- agreement for further details.
+--C1_count[20] is Delay:Port_Mapping_Delay|count[20]
+--register power-up is low
+
+C1_count[20] = DFFEAS(C1L2, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[4] is Delay:Port_Mapping_Delay|count[4]
+--register power-up is low
+
+C1_count[4] = DFFEAS(C1L6, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[3] is Delay:Port_Mapping_Delay|count[3]
+--register power-up is low
+
+C1_count[3] = DFFEAS(C1L10, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[2] is Delay:Port_Mapping_Delay|count[2]
+--register power-up is low
+
+C1_count[2] = DFFEAS(C1L14, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[1] is Delay:Port_Mapping_Delay|count[1]
+--register power-up is low
+
+C1_count[1] = DFFEAS(C1L18, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[10] is Delay:Port_Mapping_Delay|count[10]
+--register power-up is low
+
+C1_count[10] = DFFEAS(C1L22, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[9] is Delay:Port_Mapping_Delay|count[9]
+--register power-up is low
+
+C1_count[9] = DFFEAS(C1L26, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[8] is Delay:Port_Mapping_Delay|count[8]
+--register power-up is low
+
+C1_count[8] = DFFEAS(C1L30, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[7] is Delay:Port_Mapping_Delay|count[7]
+--register power-up is low
+
+C1_count[7] = DFFEAS(C1L34, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[6] is Delay:Port_Mapping_Delay|count[6]
+--register power-up is low
+
+C1_count[6] = DFFEAS(C1L38, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[5] is Delay:Port_Mapping_Delay|count[5]
+--register power-up is low
+
+C1_count[5] = DFFEAS(C1L42, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[19] is Delay:Port_Mapping_Delay|count[19]
+--register power-up is low
+
+C1_count[19] = DFFEAS(C1L46, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[15] is Delay:Port_Mapping_Delay|count[15]
+--register power-up is low
+
+C1_count[15] = DFFEAS(C1L50, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[14] is Delay:Port_Mapping_Delay|count[14]
+--register power-up is low
+
+C1_count[14] = DFFEAS(C1L54, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[13] is Delay:Port_Mapping_Delay|count[13]
+--register power-up is low
+
+C1_count[13] = DFFEAS(C1L58, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[12] is Delay:Port_Mapping_Delay|count[12]
+--register power-up is low
+
+C1_count[12] = DFFEAS(C1L62, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[11] is Delay:Port_Mapping_Delay|count[11]
+--register power-up is low
+
+C1_count[11] = DFFEAS(C1L66, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[16] is Delay:Port_Mapping_Delay|count[16]
+--register power-up is low
+
+C1_count[16] = DFFEAS(C1L70, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[18] is Delay:Port_Mapping_Delay|count[18]
+--register power-up is low
+
+C1_count[18] = DFFEAS(C1L74, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[17] is Delay:Port_Mapping_Delay|count[17]
+--register power-up is low
+
+C1_count[17] = DFFEAS(C1L78, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[0] is Delay:Port_Mapping_Delay|count[0]
+--register power-up is low
+
+C1_count[0] = DFFEAS(C1L82, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[27] is Delay:Port_Mapping_Delay|count[27]
+--register power-up is low
+
+C1_count[27] = DFFEAS(C1L86, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[26] is Delay:Port_Mapping_Delay|count[26]
+--register power-up is low
+
+C1_count[26] = DFFEAS(C1L90, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[25] is Delay:Port_Mapping_Delay|count[25]
+--register power-up is low
+
+C1_count[25] = DFFEAS(C1L94, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[24] is Delay:Port_Mapping_Delay|count[24]
+--register power-up is low
+
+C1_count[24] = DFFEAS(C1L98, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[23] is Delay:Port_Mapping_Delay|count[23]
+--register power-up is low
+
+C1_count[23] = DFFEAS(C1L102, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[22] is Delay:Port_Mapping_Delay|count[22]
+--register power-up is low
+
+C1_count[22] = DFFEAS(C1L106, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1_count[21] is Delay:Port_Mapping_Delay|count[21]
+--register power-up is low
+
+C1_count[21] = DFFEAS(C1L110, clk, reset_n,  , J1L9,  ,  , C1L147,  );
+
+
+--C1L2 is Delay:Port_Mapping_Delay|Add0~1
+C1L2_adder_eqn = ( C1_count[20] ) + ( GND ) + ( C1L47 );
+C1L2 = SUM(C1L2_adder_eqn);
+
+--C1L3 is Delay:Port_Mapping_Delay|Add0~2
+C1L3_adder_eqn = ( C1_count[20] ) + ( GND ) + ( C1L47 );
+C1L3 = CARRY(C1L3_adder_eqn);
+
+
+--C1L6 is Delay:Port_Mapping_Delay|Add0~5
+C1L6_adder_eqn = ( C1_count[4] ) + ( GND ) + ( C1L11 );
+C1L6 = SUM(C1L6_adder_eqn);
+
+--C1L7 is Delay:Port_Mapping_Delay|Add0~6
+C1L7_adder_eqn = ( C1_count[4] ) + ( GND ) + ( C1L11 );
+C1L7 = CARRY(C1L7_adder_eqn);
+
+
+--C1L10 is Delay:Port_Mapping_Delay|Add0~9
+C1L10_adder_eqn = ( C1_count[3] ) + ( GND ) + ( C1L15 );
+C1L10 = SUM(C1L10_adder_eqn);
+
+--C1L11 is Delay:Port_Mapping_Delay|Add0~10
+C1L11_adder_eqn = ( C1_count[3] ) + ( GND ) + ( C1L15 );
+C1L11 = CARRY(C1L11_adder_eqn);
+
+
+--C1L14 is Delay:Port_Mapping_Delay|Add0~13
+C1L14_adder_eqn = ( C1_count[2] ) + ( GND ) + ( C1L19 );
+C1L14 = SUM(C1L14_adder_eqn);
+
+--C1L15 is Delay:Port_Mapping_Delay|Add0~14
+C1L15_adder_eqn = ( C1_count[2] ) + ( GND ) + ( C1L19 );
+C1L15 = CARRY(C1L15_adder_eqn);
+
+
+--C1L18 is Delay:Port_Mapping_Delay|Add0~17
+C1L18_adder_eqn = ( C1_count[1] ) + ( GND ) + ( C1L83 );
+C1L18 = SUM(C1L18_adder_eqn);
+
+--C1L19 is Delay:Port_Mapping_Delay|Add0~18
+C1L19_adder_eqn = ( C1_count[1] ) + ( GND ) + ( C1L83 );
+C1L19 = CARRY(C1L19_adder_eqn);
+
+
+--C1L22 is Delay:Port_Mapping_Delay|Add0~21
+C1L22_adder_eqn = ( C1_count[10] ) + ( GND ) + ( C1L27 );
+C1L22 = SUM(C1L22_adder_eqn);
+
+--C1L23 is Delay:Port_Mapping_Delay|Add0~22
+C1L23_adder_eqn = ( C1_count[10] ) + ( GND ) + ( C1L27 );
+C1L23 = CARRY(C1L23_adder_eqn);
+
+
+--C1L26 is Delay:Port_Mapping_Delay|Add0~25
+C1L26_adder_eqn = ( C1_count[9] ) + ( GND ) + ( C1L31 );
+C1L26 = SUM(C1L26_adder_eqn);
+
+--C1L27 is Delay:Port_Mapping_Delay|Add0~26
+C1L27_adder_eqn = ( C1_count[9] ) + ( GND ) + ( C1L31 );
+C1L27 = CARRY(C1L27_adder_eqn);
+
+
+--C1L30 is Delay:Port_Mapping_Delay|Add0~29
+C1L30_adder_eqn = ( C1_count[8] ) + ( GND ) + ( C1L35 );
+C1L30 = SUM(C1L30_adder_eqn);
+
+--C1L31 is Delay:Port_Mapping_Delay|Add0~30
+C1L31_adder_eqn = ( C1_count[8] ) + ( GND ) + ( C1L35 );
+C1L31 = CARRY(C1L31_adder_eqn);
+
+
+--C1L34 is Delay:Port_Mapping_Delay|Add0~33
+C1L34_adder_eqn = ( C1_count[7] ) + ( GND ) + ( C1L39 );
+C1L34 = SUM(C1L34_adder_eqn);
+
+--C1L35 is Delay:Port_Mapping_Delay|Add0~34
+C1L35_adder_eqn = ( C1_count[7] ) + ( GND ) + ( C1L39 );
+C1L35 = CARRY(C1L35_adder_eqn);
+
+
+--C1L38 is Delay:Port_Mapping_Delay|Add0~37
+C1L38_adder_eqn = ( C1_count[6] ) + ( GND ) + ( C1L43 );
+C1L38 = SUM(C1L38_adder_eqn);
+
+--C1L39 is Delay:Port_Mapping_Delay|Add0~38
+C1L39_adder_eqn = ( C1_count[6] ) + ( GND ) + ( C1L43 );
+C1L39 = CARRY(C1L39_adder_eqn);
+
+
+--C1L42 is Delay:Port_Mapping_Delay|Add0~41
+C1L42_adder_eqn = ( C1_count[5] ) + ( GND ) + ( C1L7 );
+C1L42 = SUM(C1L42_adder_eqn);
+
+--C1L43 is Delay:Port_Mapping_Delay|Add0~42
+C1L43_adder_eqn = ( C1_count[5] ) + ( GND ) + ( C1L7 );
+C1L43 = CARRY(C1L43_adder_eqn);
+
+
+--C1L46 is Delay:Port_Mapping_Delay|Add0~45
+C1L46_adder_eqn = ( C1_count[19] ) + ( GND ) + ( C1L75 );
+C1L46 = SUM(C1L46_adder_eqn);
+
+--C1L47 is Delay:Port_Mapping_Delay|Add0~46
+C1L47_adder_eqn = ( C1_count[19] ) + ( GND ) + ( C1L75 );
+C1L47 = CARRY(C1L47_adder_eqn);
+
+
+--C1L50 is Delay:Port_Mapping_Delay|Add0~49
+C1L50_adder_eqn = ( C1_count[15] ) + ( GND ) + ( C1L55 );
+C1L50 = SUM(C1L50_adder_eqn);
+
+--C1L51 is Delay:Port_Mapping_Delay|Add0~50
+C1L51_adder_eqn = ( C1_count[15] ) + ( GND ) + ( C1L55 );
+C1L51 = CARRY(C1L51_adder_eqn);
+
+
+--C1L54 is Delay:Port_Mapping_Delay|Add0~53
+C1L54_adder_eqn = ( C1_count[14] ) + ( GND ) + ( C1L59 );
+C1L54 = SUM(C1L54_adder_eqn);
+
+--C1L55 is Delay:Port_Mapping_Delay|Add0~54
+C1L55_adder_eqn = ( C1_count[14] ) + ( GND ) + ( C1L59 );
+C1L55 = CARRY(C1L55_adder_eqn);
+
+
+--C1L58 is Delay:Port_Mapping_Delay|Add0~57
+C1L58_adder_eqn = ( C1_count[13] ) + ( GND ) + ( C1L63 );
+C1L58 = SUM(C1L58_adder_eqn);
+
+--C1L59 is Delay:Port_Mapping_Delay|Add0~58
+C1L59_adder_eqn = ( C1_count[13] ) + ( GND ) + ( C1L63 );
+C1L59 = CARRY(C1L59_adder_eqn);
+
+
+--C1L62 is Delay:Port_Mapping_Delay|Add0~61
+C1L62_adder_eqn = ( C1_count[12] ) + ( GND ) + ( C1L67 );
+C1L62 = SUM(C1L62_adder_eqn);
+
+--C1L63 is Delay:Port_Mapping_Delay|Add0~62
+C1L63_adder_eqn = ( C1_count[12] ) + ( GND ) + ( C1L67 );
+C1L63 = CARRY(C1L63_adder_eqn);
+
+
+--C1L66 is Delay:Port_Mapping_Delay|Add0~65
+C1L66_adder_eqn = ( C1_count[11] ) + ( GND ) + ( C1L23 );
+C1L66 = SUM(C1L66_adder_eqn);
+
+--C1L67 is Delay:Port_Mapping_Delay|Add0~66
+C1L67_adder_eqn = ( C1_count[11] ) + ( GND ) + ( C1L23 );
+C1L67 = CARRY(C1L67_adder_eqn);
+
+
+--C1L70 is Delay:Port_Mapping_Delay|Add0~69
+C1L70_adder_eqn = ( C1_count[16] ) + ( GND ) + ( C1L51 );
+C1L70 = SUM(C1L70_adder_eqn);
+
+--C1L71 is Delay:Port_Mapping_Delay|Add0~70
+C1L71_adder_eqn = ( C1_count[16] ) + ( GND ) + ( C1L51 );
+C1L71 = CARRY(C1L71_adder_eqn);
+
+
+--C1L74 is Delay:Port_Mapping_Delay|Add0~73
+C1L74_adder_eqn = ( C1_count[18] ) + ( GND ) + ( C1L79 );
+C1L74 = SUM(C1L74_adder_eqn);
+
+--C1L75 is Delay:Port_Mapping_Delay|Add0~74
+C1L75_adder_eqn = ( C1_count[18] ) + ( GND ) + ( C1L79 );
+C1L75 = CARRY(C1L75_adder_eqn);
+
+
+--C1L78 is Delay:Port_Mapping_Delay|Add0~77
+C1L78_adder_eqn = ( C1_count[17] ) + ( GND ) + ( C1L71 );
+C1L78 = SUM(C1L78_adder_eqn);
+
+--C1L79 is Delay:Port_Mapping_Delay|Add0~78
+C1L79_adder_eqn = ( C1_count[17] ) + ( GND ) + ( C1L71 );
+C1L79 = CARRY(C1L79_adder_eqn);
+
+
+--C1L82 is Delay:Port_Mapping_Delay|Add0~81
+C1L82_adder_eqn = ( C1_count[0] ) + ( VCC ) + ( !VCC );
+C1L82 = SUM(C1L82_adder_eqn);
+
+--C1L83 is Delay:Port_Mapping_Delay|Add0~82
+C1L83_adder_eqn = ( C1_count[0] ) + ( VCC ) + ( !VCC );
+C1L83 = CARRY(C1L83_adder_eqn);
+
+
+--C1L86 is Delay:Port_Mapping_Delay|Add0~85
+C1L86_adder_eqn = ( C1_count[27] ) + ( GND ) + ( C1L91 );
+C1L86 = SUM(C1L86_adder_eqn);
+
+
+--C1L90 is Delay:Port_Mapping_Delay|Add0~89
+C1L90_adder_eqn = ( C1_count[26] ) + ( GND ) + ( C1L95 );
+C1L90 = SUM(C1L90_adder_eqn);
+
+--C1L91 is Delay:Port_Mapping_Delay|Add0~90
+C1L91_adder_eqn = ( C1_count[26] ) + ( GND ) + ( C1L95 );
+C1L91 = CARRY(C1L91_adder_eqn);
+
+
+--C1L94 is Delay:Port_Mapping_Delay|Add0~93
+C1L94_adder_eqn = ( C1_count[25] ) + ( GND ) + ( C1L99 );
+C1L94 = SUM(C1L94_adder_eqn);
+
+--C1L95 is Delay:Port_Mapping_Delay|Add0~94
+C1L95_adder_eqn = ( C1_count[25] ) + ( GND ) + ( C1L99 );
+C1L95 = CARRY(C1L95_adder_eqn);
+
+
+--C1L98 is Delay:Port_Mapping_Delay|Add0~97
+C1L98_adder_eqn = ( C1_count[24] ) + ( GND ) + ( C1L103 );
+C1L98 = SUM(C1L98_adder_eqn);
+
+--C1L99 is Delay:Port_Mapping_Delay|Add0~98
+C1L99_adder_eqn = ( C1_count[24] ) + ( GND ) + ( C1L103 );
+C1L99 = CARRY(C1L99_adder_eqn);
+
+
+--C1L102 is Delay:Port_Mapping_Delay|Add0~101
+C1L102_adder_eqn = ( C1_count[23] ) + ( GND ) + ( C1L107 );
+C1L102 = SUM(C1L102_adder_eqn);
+
+--C1L103 is Delay:Port_Mapping_Delay|Add0~102
+C1L103_adder_eqn = ( C1_count[23] ) + ( GND ) + ( C1L107 );
+C1L103 = CARRY(C1L103_adder_eqn);
+
+
+--C1L106 is Delay:Port_Mapping_Delay|Add0~105
+C1L106_adder_eqn = ( C1_count[22] ) + ( GND ) + ( C1L111 );
+C1L106 = SUM(C1L106_adder_eqn);
+
+--C1L107 is Delay:Port_Mapping_Delay|Add0~106
+C1L107_adder_eqn = ( C1_count[22] ) + ( GND ) + ( C1L111 );
+C1L107 = CARRY(C1L107_adder_eqn);
+
+
+--C1L110 is Delay:Port_Mapping_Delay|Add0~109
+C1L110_adder_eqn = ( C1_count[21] ) + ( GND ) + ( C1L3 );
+C1L110 = SUM(C1L110_adder_eqn);
+
+--C1L111 is Delay:Port_Mapping_Delay|Add0~110
+C1L111_adder_eqn = ( C1_count[21] ) + ( GND ) + ( C1L3 );
+C1L111 = CARRY(C1L111_adder_eqn);
+
+
+--GPIO is GPIO
+GPIO = OUTPUT(G1L1);
+
+
+--HEX0[0] is HEX0[0]
+HEX0[0] = OUTPUT(B1L8);
+
+
+--HEX0[1] is HEX0[1]
+HEX0[1] = OUTPUT(B1L7);
+
+
+--HEX0[2] is HEX0[2]
+HEX0[2] = OUTPUT(B1L6);
+
+
+--HEX0[3] is HEX0[3]
+HEX0[3] = OUTPUT(B1L5);
+
+
+--HEX0[4] is HEX0[4]
+HEX0[4] = OUTPUT(B1L4);
+
+
+--HEX0[5] is HEX0[5]
+HEX0[5] = OUTPUT(B1L3);
+
+
+--HEX0[6] is HEX0[6]
+HEX0[6] = OUTPUT(B1L2);
+
+
+--HEX1[0] is HEX1[0]
+HEX1[0] = OUTPUT(B2L8);
+
+
+--HEX1[1] is HEX1[1]
+HEX1[1] = OUTPUT(B2L7);
+
+
+--HEX1[2] is HEX1[2]
+HEX1[2] = OUTPUT(B2L6);
+
+
+--HEX1[3] is HEX1[3]
+HEX1[3] = OUTPUT(B2L5);
+
+
+--HEX1[4] is HEX1[4]
+HEX1[4] = OUTPUT(B2L4);
+
+
+--HEX1[5] is HEX1[5]
+HEX1[5] = OUTPUT(B2L3);
+
+
+--HEX1[6] is HEX1[6]
+HEX1[6] = OUTPUT(B2L2);
+
+
+--J1_current_state.ELS is FSM:Port_Mapping_statemachine|current_state.ELS
+--register power-up is low
+
+J1_current_state.ELS = DFFEAS(J1L7, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[7] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[7]
+--register power-up is low
+
+H1_Shift_Reg[7] = DFFEAS(H1L12, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--J1_current_state.Transmit is FSM:Port_Mapping_statemachine|current_state.Transmit
+--register power-up is low
+
+J1_current_state.Transmit = DFFEAS(J1L8, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--G1L1 is Mux:Port_Mapping_Mux|Mux0~0
+G1L1 = (!J1_current_state.ELS & ((!J1_current_state.Transmit) # (H1_Shift_Reg[7])));
+
+
+--E1_Data_out[0] is storage:Port_Mapping_FlipFlop1|Data_out[0]
+--register power-up is low
+
+E1_Data_out[0] = DFFEAS(Switches[0], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--E1_Data_out[1] is storage:Port_Mapping_FlipFlop1|Data_out[1]
+--register power-up is low
+
+E1_Data_out[1] = DFFEAS(Switches[1], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--E1_Data_out[2] is storage:Port_Mapping_FlipFlop1|Data_out[2]
+--register power-up is low
+
+E1_Data_out[2] = DFFEAS(Switches[2], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--E1_Data_out[3] is storage:Port_Mapping_FlipFlop1|Data_out[3]
+--register power-up is low
+
+E1_Data_out[3] = DFFEAS(Switches[3], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--B1L8 is BCD2SSD:Display0|Mux6~0
+B1L8 = (!E1_Data_out[2] & (E1_Data_out[0] & (!E1_Data_out[1] $ (E1_Data_out[3])))) # (E1_Data_out[2] & (!E1_Data_out[1] & (!E1_Data_out[0] $ (E1_Data_out[3]))));
+
+
+--B1L7 is BCD2SSD:Display0|Mux5~0
+B1L7 = (!E1_Data_out[1] & (E1_Data_out[2] & (!E1_Data_out[0] $ (!E1_Data_out[3])))) # (E1_Data_out[1] & ((!E1_Data_out[0] & (E1_Data_out[2])) # (E1_Data_out[0] & ((E1_Data_out[3])))));
+
+
+--B1L6 is BCD2SSD:Display0|Mux4~0
+B1L6 = (!E1_Data_out[2] & (!E1_Data_out[0] & (E1_Data_out[1] & !E1_Data_out[3]))) # (E1_Data_out[2] & (E1_Data_out[3] & ((!E1_Data_out[0]) # (E1_Data_out[1]))));
+
+
+--B1L5 is BCD2SSD:Display0|Mux3~0
+B1L5 = (!E1_Data_out[0] & ((!E1_Data_out[1] & (E1_Data_out[2] & !E1_Data_out[3])) # (E1_Data_out[1] & (!E1_Data_out[2] & E1_Data_out[3])))) # (E1_Data_out[0] & (!E1_Data_out[1] $ ((E1_Data_out[2]))));
+
+
+--B1L4 is BCD2SSD:Display0|Mux2~0
+B1L4 = (!E1_Data_out[1] & ((!E1_Data_out[2] & (E1_Data_out[0])) # (E1_Data_out[2] & ((!E1_Data_out[3]))))) # (E1_Data_out[1] & (E1_Data_out[0] & ((!E1_Data_out[3]))));
+
+
+--B1L3 is BCD2SSD:Display0|Mux1~0
+B1L3 = (!E1_Data_out[0] & (E1_Data_out[1] & (!E1_Data_out[2] & !E1_Data_out[3]))) # (E1_Data_out[0] & (!E1_Data_out[3] $ (((!E1_Data_out[1] & E1_Data_out[2])))));
+
+
+--B1L1 is BCD2SSD:Display0|Mux0~0
+B1L1 = (!E1_Data_out[0] & ((!E1_Data_out[2] $ (!E1_Data_out[3])) # (E1_Data_out[1]))) # (E1_Data_out[0] & ((!E1_Data_out[1] $ (!E1_Data_out[2])) # (E1_Data_out[3])));
+
+
+--E1_Data_out[4] is storage:Port_Mapping_FlipFlop1|Data_out[4]
+--register power-up is low
+
+E1_Data_out[4] = DFFEAS(Switches[4], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--E1_Data_out[5] is storage:Port_Mapping_FlipFlop1|Data_out[5]
+--register power-up is low
+
+E1_Data_out[5] = DFFEAS(Switches[5], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--E1_Data_out[6] is storage:Port_Mapping_FlipFlop1|Data_out[6]
+--register power-up is low
+
+E1_Data_out[6] = DFFEAS(Switches[6], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--E1_Data_out[7] is storage:Port_Mapping_FlipFlop1|Data_out[7]
+--register power-up is low
+
+E1_Data_out[7] = DFFEAS(Switches[7], clk,  ,  , !Key1,  ,  ,  ,  );
+
+
+--B2L8 is BCD2SSD:Display1|Mux6~0
+B2L8 = (!E1_Data_out[6] & (E1_Data_out[4] & (!E1_Data_out[5] $ (E1_Data_out[7])))) # (E1_Data_out[6] & (!E1_Data_out[5] & (!E1_Data_out[4] $ (E1_Data_out[7]))));
+
+
+--B2L7 is BCD2SSD:Display1|Mux5~0
+B2L7 = (!E1_Data_out[5] & (E1_Data_out[6] & (!E1_Data_out[4] $ (!E1_Data_out[7])))) # (E1_Data_out[5] & ((!E1_Data_out[4] & (E1_Data_out[6])) # (E1_Data_out[4] & ((E1_Data_out[7])))));
+
+
+--B2L6 is BCD2SSD:Display1|Mux4~0
+B2L6 = (!E1_Data_out[6] & (!E1_Data_out[4] & (E1_Data_out[5] & !E1_Data_out[7]))) # (E1_Data_out[6] & (E1_Data_out[7] & ((!E1_Data_out[4]) # (E1_Data_out[5]))));
+
+
+--B2L5 is BCD2SSD:Display1|Mux3~0
+B2L5 = (!E1_Data_out[4] & ((!E1_Data_out[5] & (E1_Data_out[6] & !E1_Data_out[7])) # (E1_Data_out[5] & (!E1_Data_out[6] & E1_Data_out[7])))) # (E1_Data_out[4] & (!E1_Data_out[5] $ ((E1_Data_out[6]))));
+
+
+--B2L4 is BCD2SSD:Display1|Mux2~0
+B2L4 = (!E1_Data_out[5] & ((!E1_Data_out[6] & (E1_Data_out[4])) # (E1_Data_out[6] & ((!E1_Data_out[7]))))) # (E1_Data_out[5] & (E1_Data_out[4] & ((!E1_Data_out[7]))));
+
+
+--B2L3 is BCD2SSD:Display1|Mux1~0
+B2L3 = (!E1_Data_out[4] & (E1_Data_out[5] & (!E1_Data_out[6] & !E1_Data_out[7]))) # (E1_Data_out[4] & (!E1_Data_out[7] $ (((!E1_Data_out[5] & E1_Data_out[6])))));
+
+
+--B2L1 is BCD2SSD:Display1|Mux0~0
+B2L1 = (!E1_Data_out[4] & ((!E1_Data_out[6] $ (!E1_Data_out[7])) # (E1_Data_out[5]))) # (E1_Data_out[4] & ((!E1_Data_out[5] $ (!E1_Data_out[6])) # (E1_Data_out[7])));
+
+
+--C1_flag is Delay:Port_Mapping_Delay|flag
+--register power-up is low
+
+C1_flag = DFFEAS(C1L149, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--Key2 is Key2
+Key2 = INPUT();
+
+
+--J1_current_state.Key_IN is FSM:Port_Mapping_statemachine|current_state.Key_IN
+--register power-up is low
+
+J1_current_state.Key_IN = DFFEAS(J1L6, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--J1L7 is FSM:Port_Mapping_statemachine|Selector2~0
+J1L7 = (!J1_current_state.ELS & (((!Key2 & J1_current_state.Key_IN)))) # (J1_current_state.ELS & ((!C1_flag) # ((!Key2 & J1_current_state.Key_IN))));
+
+
+--clk is clk
+clk = INPUT();
+
+
+--reset_n is reset_n
+reset_n = INPUT();
+
+
+--D1_Data_out[7] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[7]
+--register power-up is low
+
+D1_Data_out[7] = DFFEAS(D1L10, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[6] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[6]
+--register power-up is low
+
+H1_Shift_Reg[6] = DFFEAS(H1L13, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--H1L12 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~0
+H1L12 = (!J1_current_state.ELS & ((H1_Shift_Reg[6]))) # (J1_current_state.ELS & (D1_Data_out[7]));
+
+
+--H1L11 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[7]~1
+H1L11 = (C1_flag & (!J1_current_state.ELS $ (!J1_current_state.Transmit)));
+
+
+--F1_CNT is MOD8:Port_Mapping_MOD|CNT
+--register power-up is low
+
+F1_CNT = DFFEAS(F1L2, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--J1L8 is FSM:Port_Mapping_statemachine|Selector3~0
+J1L8 = (!J1_current_state.ELS & (J1_current_state.Transmit & ((!F1_CNT)))) # (J1_current_state.ELS & (((J1_current_state.Transmit & !F1_CNT)) # (C1_flag)));
+
+
+--Switches[0] is Switches[0]
+Switches[0] = INPUT();
+
+
+--Key1 is Key1
+Key1 = INPUT();
+
+
+--Switches[1] is Switches[1]
+Switches[1] = INPUT();
+
+
+--Switches[2] is Switches[2]
+Switches[2] = INPUT();
+
+
+--Switches[3] is Switches[3]
+Switches[3] = INPUT();
+
+
+--Switches[4] is Switches[4]
+Switches[4] = INPUT();
+
+
+--Switches[5] is Switches[5]
+Switches[5] = INPUT();
+
+
+--Switches[6] is Switches[6]
+Switches[6] = INPUT();
+
+
+--Switches[7] is Switches[7]
+Switches[7] = INPUT();
+
+
+--C1L142 is Delay:Port_Mapping_Delay|Equal0~0
+C1L142 = (C1_count[4] & (!C1_count[3] & (!C1_count[2] & !C1_count[1])));
+
+
+--C1L143 is Delay:Port_Mapping_Delay|Equal0~1
+C1L143 = ( !C1_count[6] & ( C1_count[5] & ( (!C1_count[10] & (!C1_count[9] & (!C1_count[8] & !C1_count[7]))) ) ) );
+
+
+--C1L144 is Delay:Port_Mapping_Delay|Equal0~2
+C1L144 = ( !C1_count[12] & ( !C1_count[11] & ( (!C1_count[19] & (!C1_count[15] & (!C1_count[14] & !C1_count[13]))) ) ) );
+
+
+--C1L145 is Delay:Port_Mapping_Delay|Equal0~3
+C1L145 = ( !C1_count[27] & ( !C1_count[26] & ( (!C1_count[16] & (!C1_count[18] & (!C1_count[17] & C1_count[0]))) ) ) );
+
+
+--C1L146 is Delay:Port_Mapping_Delay|Equal0~4
+C1L146 = ( !C1_count[21] & ( (!C1_count[25] & (!C1_count[24] & (!C1_count[23] & !C1_count[22]))) ) );
+
+
+--C1L147 is Delay:Port_Mapping_Delay|Equal0~5
+C1L147 = ( C1L145 & ( C1L146 & ( (!C1_count[20] & (C1L142 & (C1L143 & C1L144))) ) ) );
+
+
+--C1L149 is Delay:Port_Mapping_Delay|flag~0
+C1L149 = (!J1_current_state.ELS & ((!J1_current_state.Transmit & (C1_flag)) # (J1_current_state.Transmit & ((C1L147))))) # (J1_current_state.ELS & (((C1L147))));
+
+
+--J1_current_state.Data is FSM:Port_Mapping_statemachine|current_state.Data
+--register power-up is low
+
+J1_current_state.Data = DFFEAS(J1L5, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--J1L6 is FSM:Port_Mapping_statemachine|Selector1~0
+J1L6 = (!Key2 & (((!Key1 & !J1_current_state.Data)))) # (Key2 & (((!Key1 & !J1_current_state.Data)) # (J1_current_state.Key_IN)));
+
+
+--E2_Data_out[7] is storage:Port_Mapping_FlipFlop2|Data_out[7]
+--register power-up is low
+
+E2_Data_out[7] = DFFEAS(Switches[7], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L10 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~0
+D1L10 = !E1_Data_out[7] $ (!E2_Data_out[7]);
+
+
+--D1_Data_out[6] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[6]
+--register power-up is low
+
+D1_Data_out[6] = DFFEAS(D1L11, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[5] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[5]
+--register power-up is low
+
+H1_Shift_Reg[5] = DFFEAS(H1L14, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--H1L13 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~2
+H1L13 = (!J1_current_state.ELS & ((H1_Shift_Reg[5]))) # (J1_current_state.ELS & (D1_Data_out[6]));
+
+
+--F1_counting[2] is MOD8:Port_Mapping_MOD|counting[2]
+--register power-up is low
+
+F1_counting[2] = DFFEAS(F1L9, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--F1_counting[1] is MOD8:Port_Mapping_MOD|counting[1]
+--register power-up is low
+
+F1_counting[1] = DFFEAS(F1L7, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--F1_counting[0] is MOD8:Port_Mapping_MOD|counting[0]
+--register power-up is low
+
+F1_counting[0] = DFFEAS(F1L5, clk, reset_n,  , F1L10,  ,  ,  ,  );
+
+
+--F1L2 is MOD8:Port_Mapping_MOD|CNT~0
+F1L2 = ( F1_counting[0] & ( (J1_current_state.Transmit & (C1_flag & (F1_counting[2] & F1_counting[1]))) ) );
+
+
+--J1L9 is FSM:Port_Mapping_statemachine|WideNor0~0
+J1L9 = (J1_current_state.Transmit) # (J1_current_state.ELS);
+
+
+--J1L5 is FSM:Port_Mapping_statemachine|Selector0~0
+J1L5 = (!J1_current_state.Transmit & (((!Key1) # (J1_current_state.Data)))) # (J1_current_state.Transmit & (!F1_CNT & ((!Key1) # (J1_current_state.Data))));
+
+
+--E2_Data_out[6] is storage:Port_Mapping_FlipFlop2|Data_out[6]
+--register power-up is low
+
+E2_Data_out[6] = DFFEAS(Switches[6], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L11 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~1
+D1L11 = !E1_Data_out[6] $ (!E2_Data_out[6]);
+
+
+--D1_Data_out[5] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[5]
+--register power-up is low
+
+D1_Data_out[5] = DFFEAS(D1L12, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[4] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[4]
+--register power-up is low
+
+H1_Shift_Reg[4] = DFFEAS(H1L15, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--H1L14 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~3
+H1L14 = (!J1_current_state.ELS & ((H1_Shift_Reg[4]))) # (J1_current_state.ELS & (D1_Data_out[5]));
+
+
+--F1L9 is MOD8:Port_Mapping_MOD|counting[2]~0
+F1L9 = ( F1_counting[0] & ( !F1_counting[2] $ (((!J1_current_state.Transmit) # ((!C1_flag) # (!F1_counting[1])))) ) ) # ( !F1_counting[0] & ( F1_counting[2] ) );
+
+
+--F1L7 is MOD8:Port_Mapping_MOD|counting[1]~1
+F1L7 = !F1_counting[1] $ (((!J1_current_state.Transmit) # ((!C1_flag) # (!F1_counting[0]))));
+
+
+--F1L10 is MOD8:Port_Mapping_MOD|Modulous8~0
+F1L10 = (J1_current_state.Transmit & C1_flag);
+
+
+--E2_Data_out[5] is storage:Port_Mapping_FlipFlop2|Data_out[5]
+--register power-up is low
+
+E2_Data_out[5] = DFFEAS(Switches[5], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L12 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~2
+D1L12 = !E1_Data_out[5] $ (!E2_Data_out[5]);
+
+
+--D1_Data_out[4] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[4]
+--register power-up is low
+
+D1_Data_out[4] = DFFEAS(D1L13, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[3] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[3]
+--register power-up is low
+
+H1_Shift_Reg[3] = DFFEAS(H1L16, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--H1L15 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~4
+H1L15 = (!J1_current_state.ELS & ((H1_Shift_Reg[3]))) # (J1_current_state.ELS & (D1_Data_out[4]));
+
+
+--E2_Data_out[4] is storage:Port_Mapping_FlipFlop2|Data_out[4]
+--register power-up is low
+
+E2_Data_out[4] = DFFEAS(Switches[4], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L13 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~3
+D1L13 = !E1_Data_out[4] $ (!E2_Data_out[4]);
+
+
+--D1_Data_out[3] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[3]
+--register power-up is low
+
+D1_Data_out[3] = DFFEAS(D1L14, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[2] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[2]
+--register power-up is low
+
+H1_Shift_Reg[2] = DFFEAS(H1L17, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--H1L16 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~5
+H1L16 = (!J1_current_state.ELS & ((H1_Shift_Reg[2]))) # (J1_current_state.ELS & (D1_Data_out[3]));
+
+
+--E2_Data_out[3] is storage:Port_Mapping_FlipFlop2|Data_out[3]
+--register power-up is low
+
+E2_Data_out[3] = DFFEAS(Switches[3], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L14 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~4
+D1L14 = !E1_Data_out[3] $ (!E2_Data_out[3]);
+
+
+--D1_Data_out[2] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[2]
+--register power-up is low
+
+D1_Data_out[2] = DFFEAS(D1L15, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[1] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[1]
+--register power-up is low
+
+H1_Shift_Reg[1] = DFFEAS(H1L18, clk, reset_n,  , H1L11,  ,  ,  ,  );
+
+
+--H1L17 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~6
+H1L17 = (!J1_current_state.ELS & ((H1_Shift_Reg[1]))) # (J1_current_state.ELS & (D1_Data_out[2]));
+
+
+--E2_Data_out[2] is storage:Port_Mapping_FlipFlop2|Data_out[2]
+--register power-up is low
+
+E2_Data_out[2] = DFFEAS(Switches[2], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L15 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~5
+D1L15 = !E1_Data_out[2] $ (!E2_Data_out[2]);
+
+
+--D1_Data_out[1] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[1]
+--register power-up is low
+
+D1_Data_out[1] = DFFEAS(D1L16, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1_Shift_Reg[0] is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[0]
+--register power-up is low
+
+H1_Shift_Reg[0] = DFFEAS(H1L3, clk, reset_n,  ,  ,  ,  ,  ,  );
+
+
+--H1L18 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg~7
+H1L18 = (!J1_current_state.ELS & ((H1_Shift_Reg[0]))) # (J1_current_state.ELS & (D1_Data_out[1]));
+
+
+--E2_Data_out[1] is storage:Port_Mapping_FlipFlop2|Data_out[1]
+--register power-up is low
+
+E2_Data_out[1] = DFFEAS(Switches[1], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L16 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~6
+D1L16 = !E1_Data_out[1] $ (!E2_Data_out[1]);
+
+
+--D1_Data_out[0] is Encrypt_Decrypt:Port_Mapping_ED|Data_out[0]
+--register power-up is low
+
+D1_Data_out[0] = DFFEAS(D1L17, clk,  ,  , J1_current_state.ELS,  ,  ,  ,  );
+
+
+--H1L3 is Shift_Reg:Port_Mapping_Shifter|Shift_Reg[0]~8
+H1L3 = (!J1_current_state.ELS & (((H1_Shift_Reg[0])))) # (J1_current_state.ELS & ((!C1_flag & (H1_Shift_Reg[0])) # (C1_flag & ((D1_Data_out[0])))));
+
+
+--E2_Data_out[0] is storage:Port_Mapping_FlipFlop2|Data_out[0]
+--register power-up is low
+
+E2_Data_out[0] = DFFEAS(Switches[0], clk,  ,  , !Key2,  ,  ,  ,  );
+
+
+--D1L17 is Encrypt_Decrypt:Port_Mapping_ED|Data_out~7
+D1L17 = !E1_Data_out[0] $ (!E2_Data_out[0]);
+
+
+--F1L5 is MOD8:Port_Mapping_MOD|counting[0]~2
+F1L5 = !F1_counting[0];
+
+
+--B1L2 is BCD2SSD:Display0|Mux0~0_wirecell
+B1L2 = !B1L1;
+
+
+--B2L2 is BCD2SSD:Display1|Mux0~0_wirecell
+B2L2 = !B2L1;
+
+
